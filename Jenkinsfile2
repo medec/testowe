@@ -1,4 +1,4 @@
- // A Declarative Pipeline is defined within a 'pipeline' block.
+check conflict // A Declarative Pipeline is defined within a 'pipeline' block.
 pipeline {
 
   // agent defines where the pipeline will run.
